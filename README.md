@@ -5,9 +5,8 @@ A Python-based conversational voice AI agent that listens to user speech, conver
 
 This project demonstrates a complete voice interaction pipeline:
 
-```text
-User Voice → Speech-to-Text → LLM Reasoning → Tool Calling → Text-to-Speech → Voice Response
-````
+- User Voice → Speech-to-Text → LLM Reasoning → Tool Calling → Text-to-Speech → Voice Response
+
 
 ---
 
