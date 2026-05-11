@@ -1,7 +1,4 @@
 
-Here’s a polished README you can copy-paste into `README.md`:
-
-````md
 # Voice AI Agent 🎙️🤖
 
 A Python-based conversational voice AI agent that listens to user speech, converts it into text, processes the query using OpenAI language models, and responds back using AI-generated speech.
